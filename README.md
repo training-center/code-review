@@ -42,9 +42,7 @@ Você deverá criar um [Gist](https://gist.github.com/) e abrir uma issue com o 
 
 Assim que seu problema for resolvido ou que você achar que não é mais necessário manter a issue aberta, você a pode fechar.
 
-Exemplo de Gist:
-
-<script src="https://gist.github.com/woliveiras/5af75249afce84106410592820faf8da.js"></script>
+Exemplo de Gist: [encontre o erro no Markdow e comente no Gist](https://gist.github.com/woliveiras/5af75249afce84106410592820faf8da)
 
 ## Como enviar meu código?
 
