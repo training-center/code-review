@@ -34,7 +34,9 @@ Com o code review você pode aprender muito através da experiência e pontos de
 
 ## Como funciona o Code Review do Training Center?
 
-Qualquer pessoa pode enviar qualquer tipo de código para ser avaliado aqui pelas pessoas da comunidade [Training Center](https://trainingcenter.io), desde JavaScript até C/C++.
+Qualquer pessoa pode enviar qualquer tipo de código para ser avaliado aqui pelas pessoas da comunidade [Training Center](https://trainingcenter.io), desde JavaScript, Ruby, Python, Shell, Java até C/C++, COBOL, Assembly.
+
+Não tenha medo, ninguém está aqui para te julgar, mas, sim, para te ajudar a melhorar seu código.
 
 ## Como enviar meu código?
 
