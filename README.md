@@ -40,7 +40,12 @@ Não tenha medo, ninguém está aqui para te julgar, mas, sim, para te ajudar a 
 
 ## Como enviar meu código?
 
-Você deverá criar um [Gist](https://gist.github.com/) e abrir uma issue com o link.
+Você pode solicitar ajuda através de PRs ou comentários em Gists.
+
+Para isso você pode:
+
+* criar um [Gist](https://gist.github.com/) e abrir uma issue aqui com o link
+* enviar o link do seu repositório para a [divertidalista](https://github.com/training-center/divertidalista/) e abrir uma issue aqui com a orientação de como podemos te ajudar
 
 Assim que seu problema for resolvido ou que você achar que não é mais necessário manter a issue aberta, você a pode fechar.
 
