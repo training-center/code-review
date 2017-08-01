@@ -57,3 +57,7 @@ Ex.: Imagine que você abriu uma issue e adicionou um Gist de um código Ruby...
 Existem diversas maneiras de se contribuir e a principal é comentando *diretamente no Gist* dessa pessoa onde ela pode melhorar, o que poderia ser feito diferente, algum erro no código, etc.
 
 Você também pode fazer um `fork` do código dessa pessoa e o melhorar e, então, enviar um PR. Como acontece aqui no GitHub.
+
+----
+
+Para manter o respeito e boa convivência na comunidade pedimos que você siga nosso [código de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md) e que também cobre que o código seja seguido por outras pessoas do grupo.
