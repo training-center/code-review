@@ -2,8 +2,6 @@
 
 > Envie seu código para a comunidade dar palpites e te ajudar a melhorar!
 
-Um projeto onde você pode enviar seu código fonte para outras pessoas te ajudarem a melhorar
-
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
   <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
