@@ -26,6 +26,14 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse cu
 
 ## O que é Code Review?
 
+Code Review significa revisão de código e esse é um processo extremamente importante quando se trata de garantir qualidade em nossa base de código.
+
+Através dessa prática podemos palpitar sobre sua lógica, sintaxe da linguagem, sobre falha em padrões de projetos utilizados, sobre falhas em sua nomenclatura de variáveis, métodos e muito mais.
+
+Com o code review você pode aprender muito através da experiência e pontos de vista de outras pessoas assim como discutir as melhores implementações de alguma resolução de problema.
+
+[Wikipedia - Code Review](https://en.wikipedia.org/wiki/Code_review)
+
 ## Como funciona o Code Review do Training Center?
 
 ## Como enviar meu código?
