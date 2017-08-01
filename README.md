@@ -36,15 +36,15 @@ Com o code review você pode aprender muito através da experiência e pontos de
 
 ## Como funciona o Code Review do Training Center?
 
-Qualquer pessoa pode enviar qualquer tipo de código para ser avaliado aqui pelas pessoas da comunidade [Training Center](https://trainingcenter.io).
+Qualquer pessoa pode enviar qualquer tipo de código para ser avaliado aqui pelas pessoas da comunidade [Training Center](https://trainingcenter.io), desde JavaScript até C/C++.
+
+## Como enviar meu código?
 
 Você deverá criar um [Gist](https://gist.github.com/) e abrir uma issue com o link.
 
 Assim que seu problema for resolvido ou que você achar que não é mais necessário manter a issue aberta, você a pode fechar.
 
 Exemplo de Gist: [encontre o erro no Markdow e comente no Gist](https://gist.github.com/woliveiras/5af75249afce84106410592820faf8da)
-
-## Como enviar meu código?
 
 ## Como receber respostas mais rápidas?
 
