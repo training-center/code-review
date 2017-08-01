@@ -16,6 +16,14 @@ Um projeto onde você pode enviar seu código fonte para outras pessoas te ajuda
 
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
+## Sumário
+
+- [O que é Code Review?](#o-que-é-code-review)
+- [Como funciona o Code Review do Training Center?](#como-funciona-o-code-review-do-training-center)
+- [Como enviar meu código?](#como-enviar-meu-código)
+- [Como receber respostas mais rápidas?](#como-receber-respostas-mais-rápidas)
+- [Como contribuir no código de outras pessoas?](#como-contribuir-no-código-de-outras-pessoas)
+
 ## O que é Code Review?
 
 ## Como funciona o Code Review do Training Center?
