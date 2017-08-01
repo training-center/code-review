@@ -45,11 +45,16 @@ Você pode solicitar ajuda através de PRs ou comentários em Gists.
 Para isso você pode:
 
 * criar um [Gist](https://gist.github.com/) e abrir uma issue aqui com o link
-* enviar o link do seu repositório para a [divertidalista](https://github.com/training-center/divertidalista/) e abrir uma issue aqui com a orientação de como podemos te ajudar
+* enviar o link do seu repositório para a [divertidalista](https://github.com/training-center/divertidalista/) e abrir uma issue **aqui** com a orientação de como podemos te ajudar
 
 Assim que seu problema for resolvido ou que você achar que não é mais necessário manter a issue aberta, você a pode fechar.
 
 Exemplo de Gist: [encontre o erro no Markdow e comente no Gist](https://gist.github.com/woliveiras/5af75249afce84106410592820faf8da)
+
+**Por que enviar meu link para a divertidalista e depois passar pra cá?**
+
+- por que lá o seu projeto pode continuar sempre exposto para a comunidade, aqui a exposição será somente enquanto a issue estiver aberta
+- com a exposição do seu projeto, mais ideias podem vir e mais contribuições podem surgir
 
 ## Como receber respostas mais rápidas?
 
