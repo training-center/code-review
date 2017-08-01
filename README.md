@@ -48,4 +48,8 @@ Exemplo de Gist: [encontre o erro no Markdow e comente no Gist](https://gist.git
 
 ## Como receber respostas mais rápidas?
 
+Se você abrir a issue e compartilhar em grupos de discussão da linguagem ou tecnologia aplicada, será mais fácil receber um feedback rápido.
+
+Ex.: Imagine que você abriu uma issue e adicionou um Gist de um código Ruby... Se você postar esse link no nosso [Slack](https://github.com/training-center/slack) no canal `#backend` você receberá uma resposta rápida. Porém se você pegar esse link, postar no nosso Slack e depois ainda compartilhar em uma comunidade Ruby, pode ter certeza que você vai receber mais feedbacks, pois mais pessoas envolvidas com a linguagem irão rever seu código e poderão contribuir.
+
 ## Como contribuir no código de outras pessoas?
