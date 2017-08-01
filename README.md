@@ -53,3 +53,7 @@ Se você abrir a issue e compartilhar em grupos de discussão da linguagem ou te
 Ex.: Imagine que você abriu uma issue e adicionou um Gist de um código Ruby... Se você postar esse link no nosso [Slack](https://github.com/training-center/slack) no canal `#backend` você receberá uma resposta rápida. Porém se você pegar esse link, postar no nosso Slack e depois ainda compartilhar em uma comunidade Ruby, pode ter certeza que você vai receber mais feedbacks, pois mais pessoas envolvidas com a linguagem irão rever seu código e poderão contribuir.
 
 ## Como contribuir no código de outras pessoas?
+
+Existem diversas maneiras de se contribuir e a principal é comentando *diretamente no Gist* dessa pessoa onde ela pode melhorar, o que poderia ser feito diferente, algum erro no código, etc.
+
+Você também pode fazer um `fork` do código dessa pessoa e o melhorar e, então, enviar um PR. Como acontece aqui no GitHub.
