@@ -14,6 +14,8 @@
 
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
+Você também pode usar esse repositório para se preparar para entrevistas de emprego, resolvendo <a href="https://github.com/LFeh/frontend-challenges" target="_blank" title="Desafios reais">desafios reais</a> que grandes empresas utilizam para selecionar os canditados às vagas, e nos mandando o link do seu repositório para revisarmos.
+
 ## Sumário
 
 - [O que é Code Review?](#o-que-é-code-review)
