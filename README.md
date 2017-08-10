@@ -16,9 +16,11 @@ Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse cu
 
 ### Utilize o processo de Code Review para se preparar para entrevistas de emprego
 
-Você também pode usar esse repositório para se preparar para entrevistas de emprego, resolvendo <a href="https://github.com/LFeh/frontend-challenges" target="_blank" title="Desafios reais">desafios reais</a> que grandes empresas utilizam para selecionar os canditados às vagas, e nos mandando o link do seu repositório para revisarmos.
+Você também pode usar esse repositório para se preparar para entrevistas de emprego, resolvendo desafios reais que empresas utilizam para selecionar os canditados às vagas, e nos mandando o link do seu repositório para revisarmos.
 
-Você conhece alguma lista de exercícios ou testes de empresas? Adicione aqui para que as pessoas pratiquem com elas.
+Você conhece alguma lista de exercícios ou testes de empresas? Adicione aqui na nossa lista para que as pessoas pratiquem com elas.
+
+* <a href="https://github.com/LFeh/frontend-challenges" target="_blank" title="Desafios reais">Frontend Challenges</a>
 
 ## Sumário
 
