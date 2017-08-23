@@ -20,9 +20,9 @@ Você também pode usar esse repositório para se preparar para entrevistas de e
 
 Você conhece alguma lista de exercícios ou testes de empresas? Adicione aqui na nossa lista para que as pessoas pratiquem com elas.
 
+* <a href="https://github.com/entria/jobs" target="_blank" title="Entria Jobs">Entria jobs</a>
 * <a href="https://github.com/LFeh/frontend-challenges" target="_blank" title="Desafios reais">Frontend Challenges</a>
 * <a href="https://github.com/LFeh/felipefriends" target="_blank" title="Felipe's Friends Project">Felipe's Friends</a>
-* <a href="https://github.com/entria/jobs" target="_blank" title="Entria Jobs">Entria jobs</a>
 
 ## Sumário
 
