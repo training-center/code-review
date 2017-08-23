@@ -22,6 +22,7 @@ Você conhece alguma lista de exercícios ou testes de empresas? Adicione aqui n
 
 * <a href="https://github.com/LFeh/frontend-challenges" target="_blank" title="Desafios reais">Frontend Challenges</a>
 * <a href="https://github.com/LFeh/felipefriends" target="_blank" title="Felipe's Friends Project">Felipe's Friends</a>
+* <a href="https://github.com/entria/jobs" target="_blank" title="Entria Jobs">Entria jobs</a>
 
 ## Sumário
 
